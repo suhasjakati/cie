@@ -13,5 +13,6 @@ public class cie1 {
         }
 
         scanner.close();
+        System.out.println("This is a simple program to check if a number is even or odd.");
     }
 }
